@@ -1,0 +1,28 @@
+name: YouDecide
+favicon: null
+layout_spectrum: 0.3319652627687901
+typography_spectrum: 0.25101308547891676
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7489817561581731
+  lightness: 0.13628617906942964
+  saturation: 0.26675620558671653
+  rhythmicContrast: 0.6148330250289291
+purpose: []
